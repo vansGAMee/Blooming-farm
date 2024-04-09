@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: 60942cc7ee33f7d42bb819e136181bb1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bfplants_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1938
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fec401aebf26b34f93f771f1a43dfb2
+      internalID: -972376930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1938
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee74506f7924714f91ca3ca621c2222
+      internalID: 440375830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1938
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089871b6d8355df4fbef21b2e8b0e086
+      internalID: 483535120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1938
+        width: 73
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb66e1b48d856e4ab53ac91914ea594
+      internalID: -1896878967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1818
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8037d59a735e42a498149af9881abcaf
+      internalID: -2035330150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1818
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0259a0cc0a1a70d4e99d51e3781b3062
+      internalID: 694389377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1818
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df4f8130c99115459df8939fdbe64ff
+      internalID: -1811964325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1818
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534263e7defbf4a4cbf6bb02f9fb868d
+      internalID: 1487695823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1818
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816498972b349254cbdc274318744fdc
+      internalID: 858436135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1632
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48941d79cf81c1d4581571b4ad730e75
+      internalID: 141676819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1632
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905f413c1df350341a2cce37ff4f3ee9
+      internalID: -1056327794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1632
+        width: 193
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86cede9dddf1344b3bda2c4674b134
+      internalID: -89644603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1632
+        width: 193
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e02fa6508b5c644bb6f8ce8922bb1e7
+      internalID: -625750217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1134
+        width: 313
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca2c98f8ad8c6429a4fcd1f35533fb
+      internalID: 1128470092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1134
+        width: 313
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f89bf9a1f872f43a1661857ddc9edb
+      internalID: 325030198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1037
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee3b999a56b0b244860f6c3f68a9933
+      internalID: 826594957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1037
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d86d049aff4bd84e8989d9f47b53642
+      internalID: 1866192837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1037
+        width: 241
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0f522d0fa4744c9a077cd6e6fb111
+      internalID: 538413358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 923
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8999697e979042a763bca727e7dec
+      internalID: -241322339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 923
+        width: 31
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f769274586b144b8d2d5c9645f4723
+      internalID: 1646392616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 809
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f8e9d4f722951498a11c9283be2fb6
+      internalID: 93060589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 809
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06863474378e224a8e51a3524e41fb1
+      internalID: -1684292008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 809
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d658edb9f3879946868581b6e600854
+      internalID: 1765490768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_23
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 737
+        width: 67
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aabf2d4d672d44f8029ea62bdbdc1d
+      internalID: -334105664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 737
+        width: 176
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1438e04f02584cb63b0dfab8e6e41
+      internalID: -638818933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 737
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994c445436a6df4499d2f9a742a66f21
+      internalID: 113190575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 737
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bb1d19069dd5a448c4bd8025f10a1b
+      internalID: 1473694666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 737
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a1413529900a248869f5a91489c03a
+      internalID: -321358045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 737
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0d5c3da61435d4cb41d49683e00b32
+      internalID: -1116462664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_29
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 737
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5fdb0b062e9094cabe70b72c896dc1
+      internalID: -1749790195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 761
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948cbaf14c6b14f4eae1dc8ba34c7f71
+      internalID: 1314156365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_31
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 737
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeacbd000fd54044b2b391018eb1288
+      internalID: -1426198237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_32
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 737
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4854f2feda7aef408d0d0d81ab7b5d3
+      internalID: 2035695689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_33
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 737
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ef3e836a410cf419c94261fd85d154
+      internalID: 1036034650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_34
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 737
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3da3fce6830ed04093532b3ba13b5c4
+      internalID: 479152065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 422
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e139fe91e7e7a0489e87ced1617fd7e
+      internalID: 1299938073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be8fae40723fc48911726ebe922cb9
+      internalID: -403845074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 5
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f42029126297140b0456c96f39e88c
+      internalID: -933272802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_38
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c963e4adb7b361b46a4ee968c79a20ee
+      internalID: 644904405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 5
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81140cab8d54c1043b09dcd4bf777419
+      internalID: 1555362508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_40
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 5
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d1b9d59aa7b4d4c836e4ff983e3615
+      internalID: -1273920442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 5
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556ab419a604efb48a6b14ae70cd8eea
+      internalID: -953265428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_42
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 5
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715b6cb7845f7654b80f6a31864afc26
+      internalID: -1854794124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_43
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 5
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f9963ab74d0c4f99a13e94ddf3501
+      internalID: 1919855503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_44
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 5
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fd8f332a463d740bc797d4896ca8c1
+      internalID: 1080391237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_45
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 5
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0488255bae90c354f85340843d269ed5
+      internalID: -2003047654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_46
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 5
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab24f34a75bf704b952b24529dfd4e6
+      internalID: 73588839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bfplants_47
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 5
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25caa450c3b3e6846b12657b75729add
+      internalID: -1907651361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bfplants_0: -972376930
+      bfplants_1: 440375830
+      bfplants_10: -1056327794
+      bfplants_11: -89644603
+      bfplants_12: -625750217
+      bfplants_13: 1128470092
+      bfplants_14: 325030198
+      bfplants_15: 826594957
+      bfplants_16: 1866192837
+      bfplants_17: 538413358
+      bfplants_18: -241322339
+      bfplants_19: 1646392616
+      bfplants_2: 483535120
+      bfplants_20: 93060589
+      bfplants_21: -1684292008
+      bfplants_22: 1765490768
+      bfplants_23: -334105664
+      bfplants_24: -638818933
+      bfplants_25: 113190575
+      bfplants_26: 1473694666
+      bfplants_27: -321358045
+      bfplants_28: -1116462664
+      bfplants_29: -1749790195
+      bfplants_3: -1896878967
+      bfplants_30: 1314156365
+      bfplants_31: -1426198237
+      bfplants_32: 2035695689
+      bfplants_33: 1036034650
+      bfplants_34: 479152065
+      bfplants_35: 1299938073
+      bfplants_36: -403845074
+      bfplants_37: -933272802
+      bfplants_38: 644904405
+      bfplants_39: 1555362508
+      bfplants_4: -2035330150
+      bfplants_40: -1273920442
+      bfplants_41: -953265428
+      bfplants_42: -1854794124
+      bfplants_43: 1919855503
+      bfplants_44: 1080391237
+      bfplants_45: -2003047654
+      bfplants_46: 73588839
+      bfplants_47: -1907651361
+      bfplants_5: 694389377
+      bfplants_6: -1811964325
+      bfplants_7: 1487695823
+      bfplants_8: 858436135
+      bfplants_9: 141676819
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
