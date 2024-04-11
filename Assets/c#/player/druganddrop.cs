@@ -1,33 +1,28 @@
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-
-public class druganddrop : MonoBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
+public class druganddrop : MonoBehaviour
 {
-    private RectTransform rectTransform;
-    private Image image;
+    private bool isDragging = false;
+    private Vector3 offset;
 
-    private void Awake()
+    private void OnMouseDown()
     {
-        rectTransform = GetComponent<RectTransform>();
-        image = GetComponent<Image>();
+        offset = transform.position - Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        isDragging = true;
     }
 
-    public void OnBeginDrag(PointerEventData eventData)
+    private void OnMouseDrag()
     {
-        image.color = new Color(0f, 255f, 200f, 0.7f);
-        image.raycastTarget = false;
+        if (isDragging)
+        {
+            Vector3 newPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition) + offset;
+            transform.position = new Vector3(newPosition.x, newPosition.y, transform.position.z);
+        }
     }
 
-    public void OnDrag(PointerEventData eventData)
+    private void OnMouseUp()
     {
-        rectTransform.anchoredPosition += eventData.delta;
-    }
-
-    public void OnEndDrag(PointerEventData eventData)
-    {
-        image.color = new Color(255f, 255f, 255f, 1f);
-        image.raycastTarget = true;
+        isDragging = false;
     }
 }
